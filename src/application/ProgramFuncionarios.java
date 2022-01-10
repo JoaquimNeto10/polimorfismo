@@ -8,7 +8,7 @@ import java.util.Scanner;
 import entities.Funcionarios;
 import entities.Terceirizados;
 
-public class Program {
+public class ProgramFuncionarios {
 
 	public static void main(String[] args) {
 		
